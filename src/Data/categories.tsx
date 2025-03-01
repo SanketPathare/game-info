@@ -3,7 +3,7 @@ export const categories = [
   { name: "Action", slug: "action", img: "/images/action.jpg" },
   { name: "Adventure", slug: "adventure", img: "/images/adventure.png" },
   { name: "RPG", slug: "role-playing-games-rpg", img: "/images/rgp.jpg" },
-  { name: "Strategy", slug: "strategy", img: "/images/Strategy.jpg" },
+  { name: "Strategy", slug: "strategy", img: "/images/strategy.jpg" },
   { name: "Shooter", slug: "shooter", img: "/images/Shooter.webp" },
   { name: "Platformer", slug: "platformer", img: "/images/Platforme.jpg" },
   { name: "Racing", slug: "racing", img: "/images/racing.avif" },
